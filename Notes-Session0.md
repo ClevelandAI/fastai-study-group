@@ -13,7 +13,7 @@ Watch [lesson 1 video](https://youtu.be/IPBSB1HLNLo) and do homework before next
 * Feel free to explore week2 notebook
 
 ## Group communication
-We will use #datascience channel at Cleveland Tech on Slack. Join Cleveland Tech on Slack with this [link](cleveland-tech.herokuapp.com/) then search for #datascience and join the channel. See you there!
+We will use #datascience channel at Cleveland Tech on Slack. Join Cleveland Tech on Slack with this [link](https://cleveland-tech.herokuapp.com/) then search for #datascience and join the channel. See you there!
 
 ## Motivation to complete the full course
 Online courses platforms completion rates are pretty low. To help keep people accountable, we suggest to collect a deposit from students. You choose the amount. At the end of the program you will get all the money back. If you dropout without completing the program we count the donation as sponsorship for future CAIG meetings.
